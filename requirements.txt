@@ -43,3 +43,6 @@ uv
 uvloop
 xattr
 yt-dlp
+brotli
+# or if you prefer
+# brotlicffi
